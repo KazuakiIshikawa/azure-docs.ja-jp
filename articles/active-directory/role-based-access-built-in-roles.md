@@ -273,7 +273,6 @@ Recovery Services コンテナーでのバックアップ管理を監視でき�
 | Microsoft.Authorization/*/read |ロールとロール割り当ての読み取り |
 | Microsoft.Billing/*/read |課金情報の読み取り |
 | Microsoft.Support/* |サポート チケットの作成と管理 |
-
 ### <a name="biztalk-contributor"></a>BizTalk Contributor
 BizTalk Services を管理できます
 
@@ -284,6 +283,7 @@ BizTalk Services を管理できます
 | Microsoft.Insights/alertRules/* |アラート ルールの作成と管理 |
 | Microsoft.ResourceHealth/availabilityStatuses/read |リソースの正常性の読み取り |
 | Microsoft.Resources/deployments/* |リソース グループ デプロイの作成と管理 |
+
 | Microsoft.Resources/subscriptions/resourceGroups/read |リソース グループの読み取り |
 | Microsoft.Support/* |サポート チケットの作成と管理 |
 
@@ -371,7 +371,7 @@ DNS ゾーンとレコードを保護できます。
 | Microsoft.Resources/subscriptions/resourceGroups/read |リソース グループの読み取り |
 | Microsoft.Support/\* |サポート チケットの作成と管理 |
 
-### <a name="documentdb-account-contributor"></a>Document DB アカウントの共同作業者
+### <a name="documentdb-account-contributor"></a>Document DB アカウント共同作成者
 Azure Cosmos DB アカウントを管理できます。 Azure Cosmos DB は以前は DocumentDB と呼ばれていました。
 
 | **アクション** |  |
